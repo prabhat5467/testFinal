@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202203291341</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 2400e132-666c-4731-833d-8723ccf3eb7d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">HelloWorld1</_name>
+			<_modifiedTimeWeak type="a">6.13.2022::6:21:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2022::6:57:57</_modifiedTime>
+			<weakCGTime type="a">6.13.2022::6:21:56</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_defaultComposite type="s">GUID 5e1d644e-1d5d-42d4-8e95-b1d5e06c3ed2</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.1.1970::5:30:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 5e1d644e-1d5d-42d4-8e95-b1d5e06c3ed2</value>
+				<value>GUID 81dc4577-eb6b-4c3c-a125-b14f7f2d6540</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 5e1d644e-1d5d-42d4-8e95-b1d5e06c3ed2</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::5:30:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 81dc4577-eb6b-4c3c-a125-b14f7f2d6540</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Writer</_name>
+			<_modifiedTimeWeak type="a">6.13.2022::6:21:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2022::6:21:56</_modifiedTime>
+			<weakCGTime type="a">6.13.2022::6:21:56</weakCGTime>
+			<strongCGTime type="a">6.13.2022::6:21:56</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID 4ff25207-f75f-49b1-aff4-6c9b3e489160</value>
+			</AggregatesList>
+		</IClass>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID 4ff25207-f75f-49b1-aff4-6c9b3e489160</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">displayText</_name>
+			<_modifiedTimeWeak type="a">6.13.2022::6:21:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.13.2022::6:21:56</_modifiedTime>
+			<_virtual type="a">0</_virtual>
+			<Args type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Args>
+			<_returnType type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">void</_hname>
+					<_hid type="a">GUID c6b70728-b655-45a0-abb7-8ea5d3da94be</_hid>
+				</IHandle>
+			</_returnType>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<_itsBody type="p"><IBody type="e">
+				<_bodyData type="a">System.out.println(&quot;Hello World from Rational Rhapsody&quot;)</_bodyData>
+			</IBody>
+			</_itsBody>
+		</IPrimitiveOperation>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
